@@ -1,0 +1,2 @@
+# shinago
+practice django project
